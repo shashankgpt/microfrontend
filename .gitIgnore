@@ -1,5 +1,6 @@
 .DS_STORE
 node_modules
+dist
 scripts/flow/*/.flowconfig
 .flowconfig
 *~
@@ -8,7 +9,6 @@ scripts/flow/*/.flowconfig
 _SpecRunner.html
 __benchmarks__
 build/
-dist/
 remote-repo/
 coverage/
 .module-cache
