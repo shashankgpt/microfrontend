@@ -15,7 +15,7 @@ import { Link } from 'react-router-dom';
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      {'Copyright © 1'}
+      {'Copyright © '}
       <Link to="/">Your Website</Link> {new Date().getFullYear()}
       {'.'}
     </Typography>
